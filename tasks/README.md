@@ -1,1 +1,1 @@
-# Atividades de Processamento de Imagem
+# Atividades de Redes Neurais
